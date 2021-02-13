@@ -1,0 +1,2 @@
+# l : List files under pwd, in a neat tree view.
+alias l='tree . -C -f -p -h | less -R'
